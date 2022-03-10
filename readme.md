@@ -7,6 +7,8 @@ however further valid movement commands are still allowed.
 
 ### Install [Python 3](https://www.python.org/) (and [pip](http://www.pip-installer.org))
 
+[Python 3.10 is required for using *match*.](https://medium.com/short-bits/python-3-10-match-a-new-way-to-find-patterns-8452d1460407) 
+
 ### Start a Python [virtual environment](https://virtualenv.pypa.io/en/latest/) and Install the Requirements
 
 ```sh
